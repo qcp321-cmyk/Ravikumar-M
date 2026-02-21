@@ -1,0 +1,8 @@
+{
+  "name": "KonnectET",
+  "description": "A creative, modern screen sharing and collaboration tool allowing multi-user screen sharing and remote interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
